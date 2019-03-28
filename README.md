@@ -1,2 +1,18 @@
-# monster-slayer
-A simple game to defeat the monster using different attacks and healing abilities with activity log of both the player and monster. A course project made on VueJS.
+# monsterslayer
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
